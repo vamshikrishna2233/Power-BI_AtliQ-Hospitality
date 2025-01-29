@@ -1,7 +1,7 @@
 # REVENUE ANALYSIS - ATLIQ HOSPITALITY
 
-### Live Dashboard:(https://app.powerbi.com/view?r=eyJrIjoiZTE5NjE5NTAtZjVhMi00ZjM1LTlmYTYtMDE2M2U3MTJhNGYwIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
-### Codebasics Portfolio:(https://codebasics.io/portfolio/vamshikrishna-nandi)
+### Live Dashboard:[Click Here](https://app.powerbi.com/view?r=eyJrIjoiZTE5NjE5NTAtZjVhMi00ZjM1LTlmYTYtMDE2M2U3MTJhNGYwIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+### Portfolio:[Click Here](https://codebasics.io/portfolio/vamshikrishna-nandi)
 
 
 
